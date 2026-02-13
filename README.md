@@ -16,7 +16,7 @@ The project demonstrates practical knowledge of **frontend development**, **back
 ---
 
 ## 🧠 Objective of the Assignment
-
+- Role-based access implemented and extensible for admin-only routes
 - Build a clean and responsive frontend
 - Develop RESTful APIs using Node.js & Express
 - Integrate MongoDB Atlas as a cloud database
